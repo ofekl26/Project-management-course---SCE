@@ -1,9 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
-import { VaDatepicker } from "vue-atlas/src/Datepicker";
-
-Vue.use(VaDatepicker);
 
 Vue.use(VueRouter);
 
